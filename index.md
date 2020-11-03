@@ -1,5 +1,6 @@
-### Specifications
 ---
+### Specifications
+
 <br>
 <p>
   Birth:2000/april/15
@@ -16,7 +17,7 @@
   ---
   ### Skill Highlights
 
----
+
 
 + Programming Languages(css , c , c++ , javascript , html code  )
 + Botskracht
@@ -24,7 +25,7 @@
 + Web Design
 + Elektronik ingenieur
 + Developer
-
+---
 ### about
 +Student Payame Noor Shahriar Input 97 Skills c,c++,c#,html,css Working in Iran Hardware Center
 ---
@@ -48,13 +49,10 @@ _ 2018,payam Noor University of West of Tehran Province (Shahriar)
 + Persian
 ---
 ### quera
-<a href="https://quera.ir/profile/amir054">
+<a href="https://quera.ir/profile/amir054">quera</a>
 ---
-### Instagram
-  Instagram : amirhosseine_aref
+### instgram
++ telegram: Amirhosseine_rf
 ---
-### telegram
-  telegram: Amirhosseine_rf
----
-### Resume evaluation
-  [رزومه ارزیابی](/resume-fa)
+### resume evaluation
++[رزومه ارزیابی](/resume-fa)
