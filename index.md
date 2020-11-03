@@ -1,4 +1,4 @@
-###Specifications
+### Specifications
 ---
 <br>
 <p>
@@ -25,7 +25,7 @@
 + Elektronik ingenieur
 + Developer
 
-###about
+### about
 +Student Payame Noor Shahriar Input 97 Skills c,c++,c#,html,css Working in Iran Hardware Center
 ---
 ### Education
@@ -47,12 +47,14 @@ _ 2018,payam Noor University of West of Tehran Province (Shahriar)
 + English
 + Persian
 ---
-###quera
+### quera
 <a href="https://quera.ir/profile/amir054">
-###Instagram
+---
+### Instagram
   Instagram : amirhosseine_aref
-###telegram
+---
+### telegram
   telegram: Amirhosseine_rf
 ---
-###Resume evaluation
+### Resume evaluation
   [رزومه ارزیابی](/resume-fa)
