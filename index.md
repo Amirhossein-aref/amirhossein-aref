@@ -1,5 +1,5 @@
 <br>
-<img src="http://s16.picofile.com/file/8413033750/%D8%B9%DA%A9%D8%B3.jpg">
+<img src="http://s16.picofile.com/file/8413033750/%D8%B9%DA%A9%D8%B3.jpg" width="200" height="200">
 <br>
 ### Specifications
 
