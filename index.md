@@ -56,4 +56,6 @@ _ 2018,payam Noor University of West of Tehran Province (Shahriar)
 <br>
 ### resume evaluation
 <br>
-[رزومه ارزیابی](/resume-fa)
+[رزومه فارسی](/resume-fa)
+<br>
+[sop](/index2)
