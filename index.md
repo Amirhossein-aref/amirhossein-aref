@@ -16,10 +16,7 @@
   <br>
 
 
- ### Skill Highlights
-
-
-
+### Skill Highlights
 + Programming Languages(css , c , c++ , javascript , html code  )
 + Botskracht
 + Programming
